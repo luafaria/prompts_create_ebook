@@ -8,7 +8,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp Santander 2024 - Fundamentos de IA para Devs da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um desafio do Bootcamp Santander 2024 - Fundamentos de IA para Devs da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -31,7 +31,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de quality assurance, o ebook é do nicho de QA e o subnicho é engenharia de prompt e IA. O título deve ser épico, e tenha uma temática mais nerd. Liste 05 opções de titulo |
-| conteúdo | Escreva um texto para o ebook com foco em Quality Assurance e explicando como utilizar engenharia de prompt para acelerar testes e processos. Utilize exemplos de código para isso. {REGRAS}> Explique sempre de um maneira simples e com humor nerd, mas também profissional > Deixe o texto enxuto > Traga exemplos de contextos reais > Deixe sempre um titulo sugestivo para cada topico > Exemplos em Cypress + JS|
+| conteúdo | Escreva um texto para o ebook com foco em Quality Assurance e explicando como utilizar engenharia de prompt para acelerar testes e processos. Utilize exemplos de código para isso. {REGRAS} > Explique sempre de um maneira simples e com humor nerd, mas também profissional > Deixe o texto enxuto > Traga exemplos de contextos reais > Deixe sempre um titulo sugestivo para cada topico > Exemplos em Cypress + JS|
 
 
 Leonardo Ai：
@@ -70,12 +70,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <a href="https://github.com/luafaria">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/luafariax.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
+felipe-exe">LinkedIn</a>&nbsp;</p>
 <br/><br/>
 <p>
 
